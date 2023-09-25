@@ -1,6 +1,0 @@
-/*.siteを書き換える*/
-.site{
-    opacity: 0; 
-    transform: translateY(100px); 
-    transition: opacity 0.5s, transform 0.5s; 
-    }
